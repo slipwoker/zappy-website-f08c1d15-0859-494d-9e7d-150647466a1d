@@ -1,0 +1,58 @@
+# האתר הנסיוני של מוני — Generative Engine Optimization Map
+
+> A General business.
+
+---
+
+## Pages
+
+### דף הבית
+https://-f08c1d15.zappy5.app
+גלו את העוצמה של בניית אתרים מקצועית עם פתרונות אחסון אתרים מתקדמים. צרו קשר עוד היום לייעוץ חינם!
+
+### שירותים
+https://-f08c1d15.zappy5.app/services
+גלו את מגוון שירותי בניית אתרים שלנו: אחסון אתרים, ניהול פרוייקטים אינטרנטיים, SEO ועוד. פתרונות מותאמים אישית!
+
+### אודות
+https://-f08c1d15.zappy5.app/about
+למדו על החזון שלנו בתחום בניית אתרים ואחסון אתרים. צוות מקצועי עם ניסיון רב בניהול פרוייקטים אינטרנטיים ופתרונות דיגיטליים.
+
+### צור קשר
+https://-f08c1d15.zappy5.app/contact
+צרו קשר עכשיו לקבלת ייעוץ חינם בנושא בניית אתרים, אחסון אתרים וניהול פרוייקטים אינטרנטיים. נשמח לעזור!
+
+## Legal & Policy
+
+### Privacy Policy
+https://-f08c1d15.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-f08c1d15.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-f08c1d15.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About האתר הנסיוני של מוני
+האתר הנסיוני של מוני is a business in the General industry.
+
+## Target Audience
+- משווקים דיגיטליים
+- בעלי עסקים קטנים
+
+## Industry
+General
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-f08c1d15.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-f08c1d15.zappy5.app/robots.txt
